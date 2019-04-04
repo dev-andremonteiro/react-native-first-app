@@ -1,17 +1,8 @@
-<p align="center" >
-    <img alt="react-native-first-app" src="" width="260" height="510" />
+<p align="center">
+ <img src="https://thumbs.gfycat.com/OrdinaryGraveGermanwirehairedpointer-size_restricted.gif" width="200"/>
 </p>
 
-<p align="center">
-<a title='License' href="https://github.com/FaridSafi/react-native-gifted-chat/blob/master/LICENSE" height="18">
-    <img src='https://img.shields.io/badge/license-MIT-blue.svg' />
-</a>
-  </p>
-  <p align="center">
- <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=expo.io/@menorme/first-app">
-  </p>
-
-# My first RN App
+## My first RN App
 
 App built with [React Native](https://github.com/facebook/react-native) and [Expo](https://github.com/expo/expo).
 
